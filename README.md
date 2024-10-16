@@ -1,1 +1,1 @@
-"# Stock-Picker-Python-Project" 
+**Stock-Picker-Python-Project**
