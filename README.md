@@ -41,9 +41,12 @@ Stock-Market-Dashboard/ <br>
 - Cache stock data to improve performance
 - Add technical indicators (e.g., RSI, MACD)
 - Allow CSV download of stock history
-## 👨‍💻 Contributors
-- Garv Randhar (https://github.com/GarvRandhar)
-- Rishabh Gupta (https://github.com/Rishabh2005-05)
+
+
+## 👥 Contributors
+- 👨‍💻 **[Abhinand Meethele Valappil](https://github.com/abhinandmv)**
+- 🧑‍💻 **[Garv Randhar](https://github.com/GarvRandhar)**
+- 🧑‍💻 **[Rishabh Gupta](https://github.com/Rishabh2005-05)**
 
 ## 📄 License
 - This project is open-source and available under the MIT License.
