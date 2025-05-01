@@ -16,7 +16,6 @@ def predict_future_prices_linear(hist, days=5):
     hist = hist[-30:]  # Last 30 days
     X = np.arange(len(hist)).reshape(-1, 1)
     y = hist['Close'].values
-
     model = LinearRegression()
     model.fit(X, y)
 
