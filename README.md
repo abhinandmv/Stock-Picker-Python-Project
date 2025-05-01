@@ -34,14 +34,7 @@ Stock-Market-Dashboard/ <br>
    pip install dash plotly dash-bootstrap-components yfinance numpy
    python project.py
    ```
-## ⚠️ Known Issues
-```
-The app currently uses the yfinance package to fetch live and historical stock data. There are occasional issues where:
-```
-- Financial data (like .financials) may return empty
-- Intraday data may not load if the market is closed or API limits are hit
-- Certain ticker symbols may not return expected results
-- These issues are external and depend on Yahoo Finance API limitations.
+
 
 ## 💡 Future Enhancements
 - Add real-time price streaming
