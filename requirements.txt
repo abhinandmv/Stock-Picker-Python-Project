@@ -5,5 +5,5 @@ pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.4.2
 yfinance==0.2.40
-gunicorn==21.2.0
+gunicorn==23.0.0
 
