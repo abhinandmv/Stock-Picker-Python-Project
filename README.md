@@ -36,6 +36,10 @@ Stock-Market-Dashboard/ <br>
    ```
 
 
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/5d04feff-9370-4521-aec5-f50f48db68c4)
+
+
 ## 💡 Future Enhancements
 - Add real-time price streaming
 - Cache stock data to improve performance
